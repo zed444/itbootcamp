@@ -288,3 +288,4 @@ console.log(dan.iznadProsekZaMesec());
 //  kod for petlje moze da se desi prekid petlje kod for each ne moze
 
 
+console.log("druga test poruka")
